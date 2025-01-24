@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nadeera Withana</h1>
+<h1 align="center">Hi 👋, I'm Nadee Withana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadee07&label=Profile%20views&color=0e75b6&style=flat" alt="nadee07" /> </p>
