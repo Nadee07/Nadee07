@@ -17,6 +17,27 @@
    
 - ⚡ Fun fact **Call me as Nadee**
 
+- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- stats & Trophy (start) -->
+  <!--- stats (start) -->
+<table align="center">
+<tr>
+  <td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nadee07=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
+    <br><br>
+    <img src="https://streak-stats.demolab.com?user=Nadee07=radical&hide_border=false" alt="GitHub Streak" /> 
+  </td>
+
+  <td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nadee07=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+    <br><br>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nadee07=radical&hide_border=false" alt="GitHub Activity Graph" />
+  </td>
+</tr>
+</table>
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
