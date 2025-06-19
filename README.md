@@ -7,11 +7,16 @@
 
 ---
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently working on **innovative web development projects**
+
+- 💬 Feel free to ask me about **C, C++, and algorithm design**
+
+- ⚡ Embracing a passion for continuous learning and creative problem-solving.
 
 - 📫 How to reach me **nadeerawithana2k20@gmail.com**
-
+   
 - ⚡ Fun fact **Call me as Nadee**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
