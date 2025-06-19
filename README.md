@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Athsara Bimalka</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nadee Withana</h1>
 <h3 align="center">A passionate Data Science Undergraduate at SLLIT </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadee07&label=Profile%20views&color=0e75b6&style=flat" alt="nadee07" /> </p>
